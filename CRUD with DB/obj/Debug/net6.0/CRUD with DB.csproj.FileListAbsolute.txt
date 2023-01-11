@@ -1,0 +1,66 @@
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\appsettings.Development.json
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\appsettings.json
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.staticwebassets.runtime.json
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.exe
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.deps.json
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.runtimeconfig.json
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\CRUD with DB.pdb
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.csproj.AssemblyReference.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.AssemblyInfoInputs.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.AssemblyInfo.cs
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.csproj.CoreCompileInputs.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.MvcApplicationPartsAssemblyInfo.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.RazorAssemblyInfo.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.RazorAssemblyInfo.cs
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets\msbuild.CRUD with DB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD with DB.props
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD with DB.props
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD with DB.props
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets.build.json
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\staticwebassets.development.json
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\scopedcss\bundle\CRUD with DB.styles.css
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\scopedcss\projectbundle\CRUD with DB.bundle.scp.css
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.dll
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\refint\CRUD with DB.dll
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.pdb
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.genruntimeconfig.cache
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\ref\CRUD with DB.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Humanizer.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Intern\CRUD with DB\CRUD with DB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Intern\CRUD with DB\CRUD with DB\obj\Debug\net6.0\CRUD with DB.csproj.CopyComplete
